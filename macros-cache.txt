@@ -1,0 +1,67 @@
+MACRO 16777235 " " INV_Misc_QuestionMark
+#showtooltip Hand of Protection(Rank 3)
+/cast [target=mouseover] Hand of Protection(Rank 3)
+END
+MACRO 16777237 " " INV_Misc_QuestionMark
+#showtooltip Flash of Light
+/cast [target=mouseover] Flash of Light
+END
+MACRO 16777241 " " INV_Misc_QuestionMark
+#showtooltip Holy Light
+/cast [target=mouseover] Holy Light
+END
+MACRO 16777242 " " INV_Misc_QuestionMark
+#showtooltip Cleanse
+/cast [target=mouseover] Cleanse
+END
+MACRO 16777243 " " INV_Misc_QuestionMark
+#showtooltip Hand of Freedom
+/cast [target=mouseover] Hand of Freedom
+END
+MACRO 16777246 " " INV_Misc_QuestionMark
+#showtooltip 
+/cancelaura Divine Plea
+/cast Divine Plea
+END
+MACRO 16777247 " " INV_Misc_QuestionMark
+#showtooltip Beacon of Light
+/cast [target=mouseover] Beacon of Light
+END
+MACRO 16777253 " " INV_Misc_QuestionMark
+#showtooltip Divine Sacrifice
+/cast [target=mouseover] Divine Sacrifice
+END
+MACRO 16777261 " " INV_Misc_QuestionMark
+#showtooltip Lay on Hands(Rank 5)
+/cast [target=mouseover] Lay on Hands(Rank 5)
+END
+MACRO 16777262 " " INV_Misc_QuestionMark
+#showtooltip Purify
+/cast [target=mouseover] Purify
+END
+MACRO 16777264 " " INV_Misc_QuestionMark
+#showtooltip Holy Shock(Rank 7)
+/cast [target=mouseover] Holy Shock(Rank 7)
+END
+MACRO 16777265 " " INV_Misc_QuestionMark
+#showtooltip Hand of Sacrifice
+/cast [target=mouseover] Hand of Sacrifice
+END
+MACRO 16777266 " " INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/cast [target=mouseover] Hand of Salvation
+END
+MACRO 16777267 " " INV_Misc_QuestionMark
+#showtooltip Sacred Shield(Rank 1)
+/cast [target=mouseover] Sacred Shield(Rank 1)
+END
+MACRO 16777268 " " INV_Misc_QuestionMark
+#showtooltip Divine Sacrifice
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777269 "Divine Shield" INV_Misc_QuestionMark
+#showtooltip Divine Shield
+/cast Divine Shield
+/cancelaura Divine Shield
+END
